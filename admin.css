@@ -1,0 +1,8 @@
+div#josemisoft_dashboard_widget{
+    background:  linear-gradient(25deg,blue,purple);
+    color: white;
+}
+
+div#josemisoft_dashboard_widget h2{
+    color: white;
+}
